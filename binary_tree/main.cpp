@@ -91,6 +91,7 @@ public:
             }
         }
         cout << "No occurencies" << endl;
+
     }
 
     void deleteTree(Node* node) {
